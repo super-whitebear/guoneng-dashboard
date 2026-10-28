@@ -1,5 +1,5 @@
 {
- "snapshot": "2026-10-27 23:59",
+ "snapshot": "2026-10-29 00:00",
  "source": "飞书快照",
  "base_url": "https://acnhszliuyuy.feishu.cn/base/YXcwbmZlqa4gbGsC0VxcI2Jfnde",
  "note": "",
@@ -7,6 +7,24 @@
  "items": [],
  "gongshi": [],
  "runs": [
+  {
+   "time": "2026-10-28 23:57",
+   "found": 13,
+   "queued": 0,
+   "gs_found": 13,
+   "gs_liubiao": 0,
+   "written": 0,
+   "gs_written": 0
+  },
+  {
+   "time": "2026-10-28 09:00",
+   "found": 2,
+   "queued": 0,
+   "gs_found": 8,
+   "gs_liubiao": 1,
+   "written": 0,
+   "gs_written": 0
+  },
   {
    "time": "2026-10-27 23:58",
    "found": 19,
